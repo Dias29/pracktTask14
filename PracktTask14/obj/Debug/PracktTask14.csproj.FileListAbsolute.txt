@@ -4,3 +4,9 @@ c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTa
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask14\PracktTask14\obj\Debug\PracktTask14.csprojResolveAssemblyReference.cache
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask14\PracktTask14\obj\Debug\PracktTask14.exe
 c:\users\уринбасаровд\documents\visual studio 2017\Projects\PracktTask14\PracktTask14\obj\Debug\PracktTask14.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\bin\Debug\PracktTask14.exe.config
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\obj\Debug\PracktTask14.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\obj\Debug\PracktTask14.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\bin\Debug\PracktTask14.exe
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\bin\Debug\PracktTask14.pdb
+D:\Users10\Asus\Documents\Visual Studio 2015\Projects\pracktTask14\PracktTask14\obj\Debug\PracktTask14.csprojResolveAssemblyReference.cache
